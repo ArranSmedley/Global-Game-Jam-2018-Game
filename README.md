@@ -6,3 +6,8 @@ This game was created within the global game jam 2018 in the theme of Transmissi
 To run the game simply download the files within the repository and go into the full game folder and run the .exe file.
 
 Disclaimer: DO NOT DELETE ANY OF THE ASSET FOLDERS WITHIN THE FULL GAME FOLDER OTHERWISE THE GAME WONT WORK.
+
+![Visual Layout of game](\Screenshots\img1.png)
+
+![When you get hit by an enemy](\Screenshots\img2.png)
+
