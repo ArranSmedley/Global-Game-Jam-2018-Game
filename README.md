@@ -7,7 +7,4 @@ To run the game simply download the files within the repository and go into the 
 
 Disclaimer: DO NOT DELETE ANY OF THE ASSET FOLDERS WITHIN THE FULL GAME FOLDER OTHERWISE THE GAME WONT WORK.
 
-![Visual Layout of game](https://github.com/ArranSmedley/Global-Game-Jam-2018-Game/tree/master/Screenshots/img1.png)
-
-![When you get hit by an enemy](https://github.com/ArranSmedley/Global-Game-Jam-2018-Game/tree/master/Screenshots/img2.png)
 
